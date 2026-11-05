@@ -1,5 +1,5 @@
-issued=2026-11-05 17:16
-RG01|M|2026-12-31|G1-C320F56B20D3|~sales,~shiftreport,~statementplus
+issued=2026-11-05 17:23
+RG01|M|2026-12-31|G1-C320F56B20D3|~sales,~shiftreport,~statementplus,~mailreport
 RG02|M|2026-12-31|G1-B340D949028F|~sales,~shiftreport,~statementplus,~mailreport
 RG03|M|2026-12-31
-sig=FDHYlx0BJxEgTOkfG7MwP/8+JZx8IJXuELAAMF4W2zsvECedglnrCS446An/7i9QA3lAznO5wImLSqEVdAaAjpDr6az6KpIoySFboxkU5P1idw5h9DKhXkXE1+myz7bmhH/hNhWLxNvz0o7SF9JeQLRinr/8kp0lmgutxx4Qaong9iFSGa3TBFchcSipAMnh4R/KjaGIyliSdKC9by67akp1Mxup/2eDK64Ot+11FSVG452ukp4iGrf+JfkrX9rx/diOowq5ux2O8T8AuVP+qBS3nPTmgNq73tL3d4Ppt5C8CexhDzMzvarFZNEj0hNeaasypdUuGmGJY0Drs+wpFw==
+sig=HEnnAvc1k3bYKzKGdBmDFY4HIbQZ+c4Q/G1uXHA9J322aujREsLT2HXDKEtT5xphJ60/AwZzXjQ60E7S4X/NDABaEook3q9pMybtzuqdlobI7AKBkgmi1LrxUFDT2H52Ve6NpvA5d7EHO3y2/zcHQ6UipNElckuL4pAfxDpcthCw8iR62B7ZLopBTRJgAjzECTsOsebrfhvp6k/b4gFnsqzd31iFHIVzt+gaDOa78k+EbQXA8C/iOwe4ePNAJjHNZpTwacny4/THoZ73rHmZ+agFPINkHJM+IKI9Vc0pYUCth2zmYs3umdDXhLJ4WDUK7hF12roayvayh/q9t6TI0w==
