@@ -1,7 +1,7 @@
-issued=2026-11-07 12:40
-version=21.4
-url=https://github.com/khaledelmalk/GymSystem-Updates/releases/download/v2026.11.07-1237
-manifest=953ad0d09867255c6854de38e4721be17accae2e76110352cf68d9fe80ac6960
+issued=2026-11-07 13:36
+version=21.5
+url=https://github.com/khaledelmalk/GymSystem-Updates/releases/download/v2026.11.07-1332
+manifest=af054497ce2178afc574b35e2110858c05a77e239e1471d9c7842366d2c38174
 needs=Add_SmartDailyReport.sql,Add_Shifts.sql,Add_VoucherUsers.sql,Add_PlayerTotalDetails.sql,Add_UserLogsDetail.sql,Add_MailReport.sql,Add_RenewAlerts.sql
-note=تحسينات في نظام التحديث
-sig=GFvakaHgAOE6XdV5dIX0rmD1pFumJndNfnyrSqyF5xbzrQDyjRUF4i8AeiUyrEqLb9iYCc4rmHJN6eyYXe6njtWX/IzzFxUWrQI8a3mCjCSreYbYjDBcgr7OqDt4b5yRbFI4HrTvtfU1RKtBiHSw92IZjipwodsiYpDD4Lbsr4wP6DHl/MIsXU7BDHP3nUNMjAUeMQ/7rZ2/ylXYd27Nh8JnLmGPlxVZ0vIzkP90hnF8+2FecseeVQPN2VOWx8NFcndD0jMJMES6Iv+FOjTytTc9tNgZ3kFFCumQLtU3YLm7WLm4XqqEmuCS2X73CJqZF87ABKpJRVlPgEHPpo7jzg==
+note=إشعار ثابت لما يوصل تحديث جديد
+sig=nx4D+JE+xIsYKq8cqO1ZRq1oNTZrkuhX3sUdSxK0UqX/TX/IVUS/kyV4KlOqbKmEY8MkkL+sDxUbn2g8mF+XrW+Pr+CVjEIhZmCpMj1x4yhT1LEXUH6sP+apSGFa/TJgn7vrHaFFUjEqOfNfe0oWCVG0f8cgB4NNdhYcXlHCfq5rMfEaYEfQObe8HU1+jJcA50+oHUfVTk0DBRyiLCMit59UwOBK5TWc9sjBs95sEao/ajxDzstj+mviB27gLh3I56Zp3ycqOMYU3HdXeQ/XOig0qKEmQnoEITiT4DIEiACFMBS4vWx3D/MMY47g3tGAKPaO71fMBFBd/2Cu5BGVlg==
