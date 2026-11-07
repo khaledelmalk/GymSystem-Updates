@@ -1,7 +1,7 @@
-issued=2026-11-07 13:36
-version=21.5
-url=https://github.com/khaledelmalk/GymSystem-Updates/releases/download/v2026.11.07-1332
-manifest=af054497ce2178afc574b35e2110858c05a77e239e1471d9c7842366d2c38174
+issued=2026-11-07 14:04
+version=21.6
+url=https://github.com/khaledelmalk/GymSystem-Updates/releases/download/v2026.11.07-1358
+manifest=66c6d73b8bd24ded23d2e7b6909bba32462243c1200c33e4245ea4e69a4bda0b
 needs=Add_SmartDailyReport.sql,Add_Shifts.sql,Add_VoucherUsers.sql,Add_PlayerTotalDetails.sql,Add_UserLogsDetail.sql,Add_MailReport.sql,Add_RenewAlerts.sql
-note=إشعار ثابت لما يوصل تحديث جديد
-sig=nx4D+JE+xIsYKq8cqO1ZRq1oNTZrkuhX3sUdSxK0UqX/TX/IVUS/kyV4KlOqbKmEY8MkkL+sDxUbn2g8mF+XrW+Pr+CVjEIhZmCpMj1x4yhT1LEXUH6sP+apSGFa/TJgn7vrHaFFUjEqOfNfe0oWCVG0f8cgB4NNdhYcXlHCfq5rMfEaYEfQObe8HU1+jJcA50+oHUfVTk0DBRyiLCMit59UwOBK5TWc9sjBs95sEao/ajxDzstj+mviB27gLh3I56Zp3ycqOMYU3HdXeQ/XOig0qKEmQnoEITiT4DIEiACFMBS4vWx3D/MMY47g3tGAKPaO71fMBFBd/2Cu5BGVlg==
+note=منع تكرار تجديد الاشتراك وتكرار الفلوس بين الأجهزة
+sig=D/xOnAYR6+Ym1+kd0SD5bIwXOSdhATAdg5wtj/UNViQWfEW42FHetQ7fStESJMFng6kFsRgRiKda76KrbRg6jUha0coTLVLlSePHoem1VA54NU+cH0QPg1cVmbtgBpasgyThHsUyD+DRnyEZduQFI5PPHYGpXY8rkK6HizYK+RVvHUyH2dpe1pLhGKms51FgipdHGrbIuH0DPB41EJXR/K6FReqwatGOacSkdjwqKAyiUwfEpStYvr8cAJ6nJUAXvBEEl0pj7h9fDcchQn4m0jCUTbW17WebPpzukKe7VxqBXQwMjDxRrJUsP/6NfVgyXL12QS5rMVp7j+hjHu2ciQ==
